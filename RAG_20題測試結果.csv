@@ -1,0 +1,210 @@
+﻿題號,測試問題,RAG回答,主要參考文件,主要參考頁碼,主要相似度,主要文件內容,執行時間（秒）,執行狀態
+1,似鳥（NITORI）國際獎學金每名補助多少金額？,"根據【參考資料 1】,似鳥（NITORI）國際獎學金每名每期發放新台幣 5 萬元，共分前後兩期發放。
+
+因此，每名總金額為：2期 x 新台幣 5 萬元/期 = 新台幣 10 萬元
+
+文件名稱：似鳥(NITORI)國際獎學金.pdf
+頁碼：第 3 頁",似鳥(NITORI)國際獎學金.pdf,3,0.754,"發放： 一、審查小組由學生事務長、生涯發展中心主任、課外活動組組長、生活輔導組組長及國 際事務處學術交流組組長等五人組成，由學生事務長擔任召集人。委員不克出席，可 由職務代理人代表出席。 二、獎學金分前後兩期(11 月及隔年 7 月)發放，每期發放新台幣 5 萬元。 三、獲獎學生應於隔年 7 月 20日前，繳交獲獎學年度之學業成績單及學習報告書，若未 如期繳交上述資料，學生應繳回已領之獎學金款項。 Article 7 Scholarship Selection and Disbursement: 1. The review committee consists of five members: the Dean of Student Affairs, the Director of the Career Development Center, the Chief of the Extracurricular Activities Section, the Chief of the Life Guidance Section, and the Chief of the Academic Exchange Section of the Office of International Affairs. The Dean of Student Affairs serves as the c",16.55,成功
+2,大立光電股份有限公司獎學金每位獲獎學生可獲得多少獎學金？,"根據【參考資料 3】大立光電股份有限公司獎學金.pdf第 1 頁，該獎學金每學年度頒給 10 名學生，每名學生可獲得新台幣 1 萬元整。
+
+因此，大立光電股份有限公司獎學金每位獲獎學生可獲得新台幣 1 萬元整。
+
+文件名稱：大立光電股份有限公司獎學金.pdf
+頁碼：第 1 頁",似鳥(NITORI)國際獎學金.pdf,1,0.7071,"larship. 第三條 獎學金名額及金額：每年甄選5名學生，每名獎學金新台幣 10 萬元，得備取 1 至 2 名。 Article 3 Number and Amount of Scholarships: Five students are selected each year, each receiving NT$100,000. One to two alternates may be selected. 第四條 申請資格：本校在學之本國籍大學部 3 年級、4 年級、碩士班 1 年級、2 年級學生(在職 生、延畢生、曾經領取過正職員工薪資所得者及預定未來 1 年內出國交換或研修 1 個月以 上者不得申請)，且合乎下列條件者，得提出申請。 一、前學期之操行成績 85 分以上，且無懲處紀錄者。 二、前學期之學業成績排名前20%之內。 三、近1年參與社會貢獻活動或近 2 年已完成之國際交流經驗(例如：參與國際志工服務、 農業交流團、國際專業競賽、國際企業實習…等)。 Article 4 Eligibility: This scholarship is open to third and fourth-year undergraduates and first and second- year master's students who are currently enrolled ",19.8,成功
+3,謝武志先生獎助學金一年共提供多少名額？,"根據【參考資料 1】,謝武志先生獎助學金一年共提供12名額。
+
+第五條中提到： ""以上每年合計頒發名額：12 名，共頒發獎學金新臺幣30 萬元整。""
+
+因此，謝武志先生獎助學金一年共提供12名額。
+
+文件名稱：武志先生獎助學金.pdf
+頁碼：第 1 頁",武志先生獎助學金.pdf,1,0.6862,1 國立中興大學謝武志先生獎助學金辦法 114 年 9 月 4 日訂定 第一條 本校EMBA 領袖組謝武志學長為鼓勵經濟弱勢學子，激發其向上精神， 順利完成學業，特設置「謝武志先生獎助學金」 。 第二條 獎助金額及名額： (一)碩士班獎助2 名學生，每名新臺幣5 萬元整。 (二)大學部獎助10 名學生，每名新臺幣2 萬元整。 以上每年合計頒發名額：12 名，共頒發獎學金新臺幣30 萬元整。 第三條 本獎助學金之保管存放，由國立中興大學學務處會同主計室及總務處等 相關單位辦理。 第四條 本校本國籍學生(不含在職專班)符合下列情形之一者： （一）低收入戶。 （二）中低收入戶。 （三）特殊境遇家庭子女或孫子女。 （四）身心障礙學生或身心障礙人士子女。 （五）原住民學生。 （六）當學年獲教育部弱勢助學金補助學生。 （七）大學部學生前一學期成績班排名前10%者。 前項第一至四款符合資格之學生 ， 係指當學期辦理通過教育部大專校院 學雜費減免者。 第五條 申請應備文件： 一、申請表及高教深耕課程10 小時證明。 二、前學期學業成績總平均75 分以上，操行成績平均85 分以上之成績 單(轉學生用前學校成績申請)。 第六條 申請方式：依公告申請期間繳交申請表及相關證明文件至生輔組。 第七條 本獎助學金之受理及資格審查由學務處生輔組辦理 ； 初審後 ， 生輔組在 五月底前將初審資料送交捐款人圈選獲獎,20.34,成功
+4,書卷獎每位得獎學生可獲得多少獎金？,"根據參考資料 1 和參考資料 2，書卷獎每學期頒發獎狀乙紙及獎金新台幣三千元整。
+
+因此，書卷獎每位得獎學生的獎金為每學期新台幣三千元整。
+
+根據參考資料 1，書卷獎每學期辦理一次，因此每學期頒發獎金共計 3,000 x 1 = 3,000 元。
+
+根據參考資料 2，書卷獎每學期得獎學生頒發獎狀乙紙及獎金新台幣三千元整。
+
+因此，書卷獎每位得獎學生的獎金為每學期新台幣三千元整。
+
+文件名稱：書卷獎.pdf
+頁碼：第 2 頁
+
+注意：根據參考資料 1 和參考資料 2 的描述，書卷獎每學期頒發獎金新台幣三千元整，因此無需計算總金額。",書卷獎.pdf,2,0.7474,"、 本獎項每學期得獎學生頒發獎狀乙紙及獎金新台幣三千元整。 IV. A winning student for t he semester shall be granted a certificate and prize money of NT$3,000. 五、 本獎項每學期辦理一次 ， 由教務處註冊組提供各學系前一學期學業成績名冊與班級 人數，學生事務處生活輔導組辦理審核作業。 V. The Award is organized every semester. The Registration Division, Office of Academic Affairs, shall provide the register of students’ academic performances and number of students in classes of each department for the preceding semester, and the Student Life Division, Office of Student Affairs, shall carry out the review procedures. 本獎項獎 狀 由各系轉發，獎 金 直接撥入受獎學生帳戶。 The certificate fo r the Award is issued ",35.46,成功
+5,校友總會獎助學金每名補助多少金額？,"根據目前提供的文件，無法確認「校友總會獎助學金」的資格、金額、期限或申請方式。
+
+文件中並未提及「校友總會獎助學金」的相關資訊，因此無法提供確切的答案。
+
+建議查詢相關文件或聯繫提供者以取得更多資訊。",林劉金珠女士勤學獎學金.pdf,2,0.7318,"Article 4 The total amount of the Scholarship is NT$225,000 per semester, awarded to fifteen students, each receiving NT$15,000. 第五條 申請條件： （一）各院系學生前學期學業總平均成績七十分以上及操行成績八十分以上者。 （二）家中收入因故銳減或家境清寒者（家庭年收入 70 萬以下）或政府登記之低 收入戶。 （三）未受公費待遇及未領其他獎學金者。 A rticle 5 Eligibility criteria: 1. Students from each college with a total average academic grade of 70 or above and a conduct grade of 80 or above in the previous semester. 2. Students whose family income has significantly reduced or come from low- income households (annual family income below NT$700,000) or are registered as low- income households by the g",14.5,成功
+6,已經領取過正職員工薪資所得的學生，可以申請似鳥國際獎學金嗎？,"根據目前提供的文件，無法確認此問題的答案。
+
+因為在【參考資料 3】中，文件並未提及正職員工薪資所得的學生是否可以申請似鳥國際獎學金。
+
+但是在【參考資料 3】,第 3 頁有提到，獎學金分前後兩期發放，每期發放新台幣 5 萬元。
+
+因此，假設獎學金共有 2 期，則每名總金額為 2 x 50,000 = 100,000 新台幣。
+
+文件名稱：似鳥(NITORI)國際獎學金.pdf
+頁碼：第 3 頁",勤學獎助學金.pdf,2,0.5708,"nts apply with the average grades from their previous school, conduct grades not included. 5. Students who have received other scholarships totaling NT$20,000 or more are not eligible to apply. 6. Students who receive more than 20,000 yuan in educational subsidies per academic year are not eligible to apply. Category B: 1. Students from low -income households and students from lower - middle-income households.",23.48,成功
+7,延修生可以申請勤學獎助學金嗎？,"根據參考資料 2 的文件，延修生或因修習雙主修、輔系而延長就學學生不得申請勤學獎助學金。
+
+因此，答案是：延修生不能申請勤學獎助學金。
+
+文件名稱：勤學獎助學金.pdf
+頁碼：第 1 頁",助學功德金.pdf,2,0.671,arship Review Committee based on donation amounts and budget availability. 第六條 本助 學金之申請者應本著自助人助的方式，請先申請學雜費減免或就學貸款後，若 生活需求尚有不足之部分，始得申請本助學金。獲得本助學金者，應於畢業後就業 時，視個人能力回饋原受贊助金額，以使本助學金得以永續，造福更多的清寒學子。 Article 6 This aid will only provide to students who still cannot afford daily expenses after getting a student loan for their tuition or tuition wavier. Students who get this aid should donate money to enrich this aid after graduation to help more low income household students. 第七條 本助學金每學期申請 1 次，申請人於公告收件期間內，檢附下列文件送交學務處生 活輔導組辦理： 一、紙本申請表及當學期參加高教深耕輔導活動十小時以上出席時數證明。 二、自傳（請說明家庭狀況、求學經過、特殊需求、年度學習計畫、未來展望等， 約二千字以上,16.14,成功
+8,已獲得政府各類獎助學金的學生，可以申請達達國際企業股份有限公司（Lagoon）弱勢獎學金嗎？,"根據目前提供的文件，無法確認此問題的答案。
+
+因為文件中沒有提到達達國際企業股份有限公司（Lagoon）弱勢獎學金的資格、金額、期限或申請方式。
+
+因此，無法確定已獲得政府各類獎助學金的學生是否可以申請達達國際企業股份有限公司（Lagoon）弱勢獎學金。
+
+文件名稱：陳守先生紀念獎助學金.pdf
+頁碼：第 1 頁
+
+文件名稱：武志先生獎助學金.pdf
+頁碼：第 2 頁
+
+文件名稱：勤學獎助學金.pdf
+頁碼：第 1 頁",陳守先生紀念獎助學金.pdf,1,0.7137,tions are eligible to apply for the scholarship: 1. Students from low-income families. 2. Students from medium low-income families. 3. Children or grandchildren from special circumstances families. 4. Students with physical/mental disabilities and children of persons with physical/mental disabilities. 5. Indigenous students. 6. Students receiving disadvantage grants from the Ministry of Education.,23.8,成功
+9,大學一年級學生可以申請建程科學科技工程數學獎學金嗎？,"根據目前提供的文件，無法確認大學一年級學生是否可以申請建程科學科技工程數學獎學金。
+
+然而，我們可以看到建程科學科技工程數學獎學金的申請對象是「本校在學之學生」，但並沒有明確提到一年級學生的資格。
+
+因此，答案是未知。
+
+建議您查閱其他文件或聯繫相關部門以獲得更準確的資訊。
+
+文件名稱：建程科學科技工程數學獎學金.pdf
+頁碼：第 3 頁",建程科學科技工程數學獎學金.pdf,3,0.6633," 貢獻或應用價值，最低得3分，最高得6分，口頭發表得2分，摘要 或海報發表得1分。 三、參與研究發展計畫經歷：佔總分的百分之十；有參與者得1分，無 則0分。 四、獎學金文稿：佔總分的百分之十；最高得1分。 五 、 其他有利審查之佐證資料 ； 最高得2分 。 若申請學生所獲總分相同 ， 則啓動面試。 Article 9 Selection Method: Applications from undergraduate, master, and doctoral students are evaluated separately. The Committee members will score based on the following criteria: 1. Academic performance: 20% of the total score; GPA 3.60 or above =",22.58,成功
+10,似鳥國際獎學金的申請資格有哪些？,"根據提供的文件，我們可以知道：
+
+* 似鳥國際獎學金的發放期數為前後兩期（11 月及隔年 7 月），每期發放新台幣 5 萬元。
+* 總共發放兩期，因此總金額為 2 x 50,000 = 100,000 新台幣。
+
+根據第三個文件的描述，每年甄選 5 名學生，每名獎學金新台幣 10 萬元，因此每年總金額為 5 x 100,000 = 500,000 新台幣。
+
+因此，似鳥國際獎學金的申請資格包括：
+
+* 每年甄選 5 名學生
+* 每名獎學金新台幣 10 萬元
+* 每年總金額新台幣 500,000
+
+文件名稱：似鳥(NITORI)國際獎學金.pdf
+頁碼：第 3 頁",似鳥(NITORI)國際獎學金.pdf,3,0.6095,"發放： 一、審查小組由學生事務長、生涯發展中心主任、課外活動組組長、生活輔導組組長及國 際事務處學術交流組組長等五人組成，由學生事務長擔任召集人。委員不克出席，可 由職務代理人代表出席。 二、獎學金分前後兩期(11 月及隔年 7 月)發放，每期發放新台幣 5 萬元。 三、獲獎學生應於隔年 7 月 20日前，繳交獲獎學年度之學業成績單及學習報告書，若未 如期繳交上述資料，學生應繳回已領之獎學金款項。 Article 7 Scholarship Selection and Disbursement: 1. The review committee consists of five members: the Dean of Student Affairs, the Director of the Career Development Center, the Chief of the Extracurricular Activities Section, the Chief of the Life Guidance Section, and the Chief of the Academic Exchange Section of the Office of International Affairs. The Dean of Student Affairs serves as the c",31.52,成功
+11,達達國際企業股份有限公司（Lagoon）弱勢獎學金需要繳交哪些文件？,"根據達達國際企業股份有限公司（Lagoon）弱勢獎學金的文件（達達國際企業股份有限公司（Lagoon）弱勢獎學金.pdf, 第 2 頁），獎學金將在上、下學期各發放 1 次。
+
+文件中提到獎學金採帳戶匯款方式，發放時間、獲獎名單及領獎方式將公告於本校網站並個別通知獲獎同學需出席頒獎典禮。
+
+根據文件的描述，似乎沒有明確提到需要繳交的文件。但是，文件中提到得獎同學應於獲獎當學年第二學期 3 月 31 日前提供第一學期成績單及得獎心得 1 篇。
+
+因此，答案可能是：
+
+根據目前提供的文件，得獎同學應於獲獎當學年第二學期 3 月 31 日前提供第一學期成績單及得獎心得 1 篇。
+
+文件名稱：達達國際企業股份有限公司（Lagoon）弱勢獎學金.pdf
+頁碼：第 2 �",武志先生獎助學金.pdf,2,0.7079,"T$20,000. In total, 12 recipients per year, with a total scholarship amount of NT$300,000. Article 3 The management and safekeeping of the scholarship funds shall be jointly handled by the Office of Student Affairs, the Accounting Office, and the General Affairs Office of NCHU. Article 4 Eligibility: Domes tic students of the university (excluding in-service programs) who meet any of the following conditions: (1) Low-income household. (2) Lower-middle-income household. (3) Children or grandchildren of families in special circumstances. (4) Students with disabilities or children of persons with",33.97,成功
+12,校友總會獎助學金的申請流程與應備文件有哪些？,"根據提供的參考資料，我們可以得出以下結論：
+
+根據第 3 頁的內容，學生獲獎紀錄永久保存，而非提供金額資訊。
+
+因此，無法確認獎助學金的每期金額與總金額。
+
+根據第 2 頁的內容，申請流程如下：
+
+一、紙本申請表
+二、自傳（約二千字以上）
+三、舊生申請者須附一位老師之推薦函
+
+但無法確認獎助學金的每期金額與總金額。
+
+文件名稱：助學功德金.pdf
+頁碼：第 3 頁
+
+根據目前提供的文件，無法確認此問題的答案。",助學功德金.pdf,1,0.7123," donations earmarked for this specific fund or unspecified scholarships, as well as the contributions of previous beneficiaries. The Alumni Center handles all donation-related matters following prescribed procedures. 第三條 本助學金採取個別認養或一般認養方式，個別認養為捐贈者依其意願指定認養學生 ，一般認養為捐贈者不指定認養，由學校統籌辦理。 Article 3 This aid fund can be adopted individually or generally. In individual adoptions, donors specify the student they wish to sponsor, while in general adoptions, the school manages the sponsorship without specific student designation. 第四條 本助學金由本校興翼獎學金審查委員會審核，經委員二分之一以上出席，出席人數 三分之二以上同意決議。 Article 4 The Aid Fund i",25.11,成功
+13,謝武志先生獎助學金的申請資格與應備文件有哪些？,"根據目前提供的文件，無法確認謝武志先生獎助學金的申請資格與應備文件。
+
+原因是，文件中沒有提到謝武志先生獎助學金的相關資訊。
+
+如果您需要查詢其他獎助學金的資格與應備文件，請提供相關文件，我將幫助您回答。",書卷獎.pdf,2,0.6582, accordingly.,13.12,成功
+14,哪一種獎助學金最容易申請成功？,"根據目前提供的文件，無法確認哪一種獎助學金最容易申請成功。
+
+因為提供的文件中，並沒有提到任何獎助學金的申請成功率或難易程度。
+
+但根據文件中的資格和金額，我們可以看到：
+
+* 助學功德金.pdf（第 2 頁）：每學期申請一次，每學期的金額未明確。
+* 達達國際企業股份有限公司（Lagoon）弱勢獎學金.pdf（第 1 頁）：每名每學年新臺幣 6 萬元，共頒發獎學金新臺幣 60 萬元整。
+* 陳守先生紀念獎助學金.pdf（第 1 頁）：未提到金額或期數。
+
+因此，無法提供最容易申請成功的獎助學金的答案。
+
+文件名稱與頁碼如下：
+
+* 助學功德金.pdf：第 2 頁
+* 達達國際企業股份有限公司（Lagoon）弱勢獎學金.pdf：第 1 頁
+* 陳守先生紀�",助學功德金.pdf,2,0.6597,arship Review Committee based on donation amounts and budget availability. 第六條 本助 學金之申請者應本著自助人助的方式，請先申請學雜費減免或就學貸款後，若 生活需求尚有不足之部分，始得申請本助學金。獲得本助學金者，應於畢業後就業 時，視個人能力回饋原受贊助金額，以使本助學金得以永續，造福更多的清寒學子。 Article 6 This aid will only provide to students who still cannot afford daily expenses after getting a student loan for their tuition or tuition wavier. Students who get this aid should donate money to enrich this aid after graduation to help more low income household students. 第七條 本助學金每學期申請 1 次，申請人於公告收件期間內，檢附下列文件送交學務處生 活輔導組辦理： 一、紙本申請表及當學期參加高教深耕輔導活動十小時以上出席時數證明。 二、自傳（請說明家庭狀況、求學經過、特殊需求、年度學習計畫、未來展望等， 約二千字以上,36.5,成功
+15,哪一項獎助學金的競爭最激烈？,"根據提供的文件，我們可以分析如下：
+
+1. 助學功德金.pdf (第 2 頁)
+ * 每學期申請一次
+ * 無明確的每期金額或總金額資訊
+2. 達達國際企業股份有限公司（Lagoon）弱勢獎學金.pdf (第 2 頁)
+ * 上、下學期各發放 1 次
+ * 每學期發放一次，無明確的每期金額或總金額資訊
+3. 興翼獎學金.pdf (第 2 頁)
+ * 每學期發放一次
+ * 每學期發放一次，無明確的每期金額或總金額資訊
+
+根據文件的描述，似乎沒有明確的每期金額或總金額資訊。但是，根據文件的描述，可以推斷出以下幾點：
+
+* 助學功德金.pdf 的申請人應本著自助人助的方式，請先申請學雜費減免或就學貸款後，若生活需求尚有不足之部分，始得申請本助",助學功德金.pdf,2,0.5707,arship Review Committee based on donation amounts and budget availability. 第六條 本助 學金之申請者應本著自助人助的方式，請先申請學雜費減免或就學貸款後，若 生活需求尚有不足之部分，始得申請本助學金。獲得本助學金者，應於畢業後就業 時，視個人能力回饋原受贊助金額，以使本助學金得以永續，造福更多的清寒學子。 Article 6 This aid will only provide to students who still cannot afford daily expenses after getting a student loan for their tuition or tuition wavier. Students who get this aid should donate money to enrich this aid after graduation to help more low income household students. 第七條 本助學金每學期申請 1 次，申請人於公告收件期間內，檢附下列文件送交學務處生 活輔導組辦理： 一、紙本申請表及當學期參加高教深耕輔導活動十小時以上出席時數證明。 二、自傳（請說明家庭狀況、求學經過、特殊需求、年度學習計畫、未來展望等， 約二千字以上,36.39,成功
+16,如果同時符合多項獎助學金資格，可以全部一起申請嗎？,"根據目前提供的文件，無法確認是否可以同時申請多項獎助學金。
+
+在【參考資料 1】中，助學功德金每學期申請一次，但沒有提到可以同時申請多項獎助學金。
+
+在【參考資料 2】中，陳守先生紀念獎助學金的資格包括低收入家庭、中低收入家庭、特殊情況家庭等，但沒有提到可以同時申請多項獎助學金。
+
+在【參考資料 3】中，達達國際企業股份有限公司（Lagoon）弱勢獎學金的資格包括低收入家庭、下中收入家庭、特殊情況家庭等，但沒有提到可以同時申請多項獎助學金。
+
+因此，根據目前提供的文件，無法確認是否可以同時申請多項獎助學金。
+
+文件名稱：助學功德金.pdf 頁碼：第 2 頁
+文件名稱：陳守先生紀念獎助學金.pdf 頁碼：第 1 頁
+文件名稱：達達國際企業股份有限公司（",助學功德金.pdf,2,0.6085,arship Review Committee based on donation amounts and budget availability. 第六條 本助 學金之申請者應本著自助人助的方式，請先申請學雜費減免或就學貸款後，若 生活需求尚有不足之部分，始得申請本助學金。獲得本助學金者，應於畢業後就業 時，視個人能力回饋原受贊助金額，以使本助學金得以永續，造福更多的清寒學子。 Article 6 This aid will only provide to students who still cannot afford daily expenses after getting a student loan for their tuition or tuition wavier. Students who get this aid should donate money to enrich this aid after graduation to help more low income household students. 第七條 本助學金每學期申請 1 次，申請人於公告收件期間內，檢附下列文件送交學務處生 活輔導組辦理： 一、紙本申請表及當學期參加高教深耕輔導活動十小時以上出席時數證明。 二、自傳（請說明家庭狀況、求學經過、特殊需求、年度學習計畫、未來展望等， 約二千字以上,35.6,成功
+17,如果不同獎助學金文件對同一項規定有不同內容，應該以哪一份資料為準？,"根據目前提供的文件，無法確認此問題的答案。
+
+因為沒有任何文件提供相關的規定或說明。
+
+如果您能夠提供更多的文件或資訊，我們將會更好地幫助您。",書卷獎.pdf,2,0.6238, accordingly.,9.37,成功
+18,如果文件沒有提到外籍學生是否可以申請某項獎學金，系統應該如何回答？,"根據提供的文件，我們可以分析如下：
+
+1. 文件【參考資料 3】中，第五條提到「本獎助學金每學年度每人最高給與金額為 30 萬元」，並且「本獎助學金每學年度每人最高給與金額為 30 萬元，分為 10 個月發放，每月 3 萬元」。
+2. 根據這個信息，我們可以計算每期金額和總金額：
+ * 每期金額：3 萬元
+ * 總金額：3 萬元 x 10 個月 = 30 萬元
+
+因此，答案是：
+
+根據目前提供的文件，勤學獎助學金每學年度每人最高給與金額為 30 萬元，分為 10 個月發放，每月 3 萬元。
+
+文件名稱：勤學獎助學金.pdf
+頁碼：第 1 頁",似鳥(NITORI)國際獎學金.pdf,4,0.6656,"4. The student cannot accept the scholarship due to objective reasons or cannot continue their studies. 第九條 無正當理由不參加公益財團法人似鳥國際獎學財團主辦之交流活動時，喪失獲獎資格，並 需返還領取之獎學金。 Article 9 Failure to participate in exchange activities organized by the Nitori International Scholarship Foundation without a valid reason will result in the loss of scholarship eligibility and require the return of received scholarship funds 第十條 學生獲獎紀錄永久保存，申請資料則保存 1 年。 Article 10 The records of awarded students are permanently retained, while application materials are kept for one year. 第十一條 本辦法經公益財團法人似鳥國際獎學財團同意，陳請校長核定後實施，修正時亦同。 Articl",31.83,成功
+19,似鳥國際獎學金每名補助多少金額？請區分每期金額與每名總金額。,"根據【參考資料 1】,似鳥國際獎學金的發放情況如下：
+
+* 每期發放新台幣 5 萬元。
+* 總共有兩期發放。
+
+因此，每名學生的每期金額為新台幣 5 萬元，每名總金額為新台幣 10 萬元（兩期發放）。
+
+文件名稱：似鳥(NITORI)國際獎學金.pdf
+頁碼：第 3 頁",似鳥(NITORI)國際獎學金.pdf,3,0.6414,"發放： 一、審查小組由學生事務長、生涯發展中心主任、課外活動組組長、生活輔導組組長及國 際事務處學術交流組組長等五人組成，由學生事務長擔任召集人。委員不克出席，可 由職務代理人代表出席。 二、獎學金分前後兩期(11 月及隔年 7 月)發放，每期發放新台幣 5 萬元。 三、獲獎學生應於隔年 7 月 20日前，繳交獲獎學年度之學業成績單及學習報告書，若未 如期繳交上述資料，學生應繳回已領之獎學金款項。 Article 7 Scholarship Selection and Disbursement: 1. The review committee consists of five members: the Dean of Student Affairs, the Director of the Career Development Center, the Chief of the Extracurricular Activities Section, the Chief of the Life Guidance Section, and the Chief of the Academic Exchange Section of the Office of International Affairs. The Dean of Student Affairs serves as the c",19.43,成功
+20,達達國際企業股份有限公司（Lagoon）弱勢獎學金第二學期是否一定會繼續發放？,"根據目前提供的文件，無法確認達達國際企業股份有限公司（Lagoon）弱勢獎學金第二學期是否一定會繼續發放。
+
+文件中提到興翼獎學金的相關規定，但並未提及達達國際企業股份有限公司（Lagoon）弱勢獎學金的規定。
+
+因此，無法提供確切的答案。
+
+文件名稱：興翼獎學金.pdf
+頁碼：第 2 頁、第 3 頁",興翼獎學金.pdf,2,0.6746, 惟休 學後若經復學，所領獎學金未達四十萬元者，得繼續支領之。受獎生前學期成績總平均 及格或班排名達前 50%，始得續領獎學金，未符續領資格者，停發獎學金，停發之獎學金 不予補發。,17.68,成功
